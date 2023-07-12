@@ -39,6 +39,7 @@ const AddUser = () => {
                   이름
                 </label>
                 <input
+                  required
                   type="text"
                   id="name"
                   value={name}
@@ -54,6 +55,7 @@ const AddUser = () => {
                   유저네임
                 </label>
                 <input
+                  required
                   type="text"
                   id="username"
                   value={username}
@@ -69,6 +71,7 @@ const AddUser = () => {
                   이메일
                 </label>
                 <input
+                  required
                   type="text"
                   id="email"
                   value={email}
