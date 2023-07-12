@@ -1,7 +1,7 @@
 import React from "react";
 
-const ViesUser = () => {
+const ViewUser = () => {
   return <div>ViesUser</div>;
 };
 
-export default ViesUser;
+export default ViewUser;
